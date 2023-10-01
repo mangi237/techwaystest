@@ -15,7 +15,7 @@ class Google extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'News App',
+      title: 'tech ways',
       debugShowCheckedModeBanner: false,
       home: NewsList(),
     );
